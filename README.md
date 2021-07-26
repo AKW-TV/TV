@@ -297,7 +297,7 @@ https://feeds.intoday.in/hltapps/api/master.m3u8
 https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://cloudfront.timesnownews.com/site/static/web_t3/web_new/images/logo.png" group-title="NEWS",Times Now
-http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/NDTV24x7.in.png" group-title="NEWS",NDTV 24X7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1 tvg-logo="https://www.newsmaxtv.com/CMSScripts/NewsmaxTV/images/logos/Newsmax-TV-White.png" group-title="NEWS",Newsmax
